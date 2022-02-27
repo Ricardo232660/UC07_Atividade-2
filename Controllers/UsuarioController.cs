@@ -60,7 +60,7 @@ namespace Biblioteca.Controllers
             {
                 ViewData["Mensagem"] = "Exclusão do usuario" + new UsuarioService().Listar(id).Nome + "realizada com sucesso";
                 new UsuarioService().excluirUsuario(id);
-                return View("ListarDeUsuario", new UsuarioService().Listar());
+                return View("ListaDeUsuarios", new UsuarioService().Listar());
             }
             else
             {

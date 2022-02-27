@@ -53,7 +53,7 @@ D:\Atividades de Recupeções\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 D:\Atividades de Recupeções\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
 D:\Atividades de Recupeções\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\cadastroRealizado.cshtml.g.cs
 D:\Atividades de Recupeções\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs
-D:\Atividades de Recupeções\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuaio.cshtml.g.cs
 D:\Atividades de Recupeções\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaDeUsuarios.cshtml.g.cs
 D:\Atividades de Recupeções\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedDeUsuarios.cshtml.g.cs
 D:\Atividades de Recupeções\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuarios.cshtml.g.cs
+D:\Atividades de Recupeções\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs

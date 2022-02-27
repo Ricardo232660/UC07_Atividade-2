@@ -14462,11 +14462,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Atividades de Recupeções\\Biblioteca\\Views\\Usuario\\ExcluirUsuaio.cshtml",
-      "TargetPath": "Views\\Usuario\\ExcluirUsuaio.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Atividades de Recupeções\\Biblioteca\\Views\\Usuario\\RegistrarUsuarios.cshtml",
       "TargetPath": "Views\\Usuario\\RegistrarUsuarios.cshtml",
       "FileKind": "mvc"
@@ -14494,6 +14489,11 @@
     {
       "FilePath": "d:\\Atividades de Recupeções\\Biblioteca\\Views\\Usuario\\NeedDeUsuarios.cshtml",
       "TargetPath": "Views\\Usuario\\NeedDeUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Atividades de Recupeções\\Biblioteca\\Views\\Usuario\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\ExcluirUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
